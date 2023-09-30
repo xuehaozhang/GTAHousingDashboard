@@ -3,3 +3,5 @@ This project explores the housing market in the city, focusing on the affordabil
 I created a comprehensive analytical dashboard to illustrate the insights obtained from the data. The dashboard was constructed using two different tools, Tableau and PowerBI, to showcase the same narrative on Toronto's housing market landscape. The dual-tool approach caters to different user preferences and demonstrates versatility in presenting data-driven insights.
 
 Through this project, I aim to bridge the informational gap in Toronto's housing market, rendering a clearer perspective for potential buyers, renters, and policymakers.
+
+Tableau Dashboard: https://public.tableau.com/app/profile/xuehao.zhang/viz/GreaterTorontoHousingAffordability/Dashboard1
